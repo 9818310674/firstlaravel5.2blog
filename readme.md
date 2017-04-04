@@ -1,6 +1,6 @@
-# Laravel Blog+
+# Laravel Blog
 
-This project is my self project
+This project is my first project in laravel. 
 
 ### Installation:
 
